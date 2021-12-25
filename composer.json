@@ -22,8 +22,8 @@
   "require": {
     "php": ">=5.6",
     "composer/installers": "~1.0",
-    "idavoll/core-module": "~3.0",
-    "idavoll/media-module": "~3.0"
+    "idavoll/core-module": ">=4.0.x-dev",
+    "idavoll/media-module": ">=4.0.x-dev"
   },
   "require-dev": {
     "phpunit/phpunit": "~6.0",
